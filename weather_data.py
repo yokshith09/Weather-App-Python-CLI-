@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-API_KEY = "636e07cc7ada70a84e0e266b0dede53a"
+API_KEY = "paste api key here "
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 DUMMY_WEATHER = {
@@ -112,3 +112,4 @@ if __name__ == "__main__":
             print("City not found in API or dummy data.")
         
         input("\nPress Enter to continue...")
+

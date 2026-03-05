@@ -49,4 +49,4 @@ Condition: Partly cloudy
 
 ## Author
 
-Your Name
+Kuchipudi Yokshith Sai Ram Chowdary
